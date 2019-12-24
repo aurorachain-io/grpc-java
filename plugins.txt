@@ -1,0 +1,8 @@
+#maven2
+https://repo1.maven.org/maven2/
+
+#protoc-gen-grpc-java
+https://repo1.maven.org/maven2/io/grpc/protoc-gen-grpc-java/
+
+#protoc for java
+https://repo1.maven.org/maven2/com/google/protobuf/protoc/
